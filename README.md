@@ -8,7 +8,7 @@ The following functionalities are provided:
 - display the child records for a specific (i.e., selected) parent record;
 - add / remove / update child records for a specific parent record.
 
-<img width="50%" height="50%" src="/demos/demo1.PNG">
+<img width="60%" height="60%" src="/demos/demo1.PNG">
 
 <img width="100%" height="100%" src="/demos/demo2.PNG">
 
